@@ -1,5 +1,5 @@
 Update.Data <- function(Name, Date, B1, B2, B3, B4, B5, B6, Town, Time, Precipitation, Temperature, Event, Weekend, P1, P2, P3, P4, P5, P6) {
-    excel_file <- "C:/Users/kriti/Desktop/Sem 3/Adaptive BI/Project/BurgerBounty.xlsx"
+    excel_file <- "Burger Bounty Project/BurgerBounty.xlsx"
     
     # Load the workbook
     wb <- loadWorkbook(excel_file)
