@@ -44,9 +44,6 @@ This Shiny app serves as a dashboard for summarizing and updating monthly sales 
 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
